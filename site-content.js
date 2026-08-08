@@ -22,8 +22,8 @@ window.SITE_CONTENT = {
     pageDescription:
       "Academic profile of Sasanka Adikari, Assistant Professor of Mathematics and Data Science at Clarkson University.",
     profileEyebrow: "Academic profile",
-    role: "Assistant Professor of Mathematics and Data Science",
-    institution: "Clarkson University",
+    role: "Assistant Professor of Mathematics",
+    institution: "Department of Mathematics, Clarkson University, New York",
     institutionUrl: "https://www.clarkson.edu/",
     profilePhoto: "assets/sasanka-adikari-profile.png",
     cvFile: "assets/Sasanka-Adikari-CV.pdf",
