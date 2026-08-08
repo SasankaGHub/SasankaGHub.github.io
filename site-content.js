@@ -20,7 +20,7 @@ window.SITE_CONTENT = {
     name: "Sasanka Adikari, Ph.D.",
     pageTitle: "Sasanka Adikari | Mathematics & Data Science",
     pageDescription:
-      "Academic profile of Sasanka Adikari, Assistant Professor of Mathematics and Data Science at Clarkson University.",
+      "Academic profile of Sasanka Adikari, Assistant Professor of Mathematics at Clarkson University.",
     profileEyebrow: "Academic profile",
     role: "Assistant Professor of Mathematics",
     institution: "Department of Mathematics, Clarkson University, New York",
@@ -67,7 +67,7 @@ window.SITE_CONTENT = {
     kicker: "About",
     heading: "Biography",
     paragraphs: [
-      "Sasanka Adikari is an Assistant Professor of Mathematics and Data Science in the Department of Mathematics at Clarkson University in Potsdam, New York. His work connects statistical theory, computational methods, and real-world decision making.",
+      "Sasanka Adikari is an Assistant Professor of Mathematics in the Department of Mathematics at Clarkson University in Potsdam, New York. His work connects statistical theory, computational methods, and real-world decision making.",
       "His research interests include discrete choice modeling, time-dependent best–worst choice behavior, copula-based dependence models, Bayesian methods, time-series forecasting, and statistical learning. He also develops applied analytical methods for public-health surveillance and justice-system data.",
       "Before joining Clarkson, he served as a Data Scientist with the Supreme Court of Pennsylvania, supporting statewide reporting and statistical analysis across Pennsylvania’s 67 counties. He values reproducible research, interdisciplinary collaboration, and translating complex methods into useful tools.",
     ],
