@@ -17,7 +17,7 @@
 
 window.SITE_CONTENT = {
   site: {
-    name: "Sasanka Adikari",
+    name: "Sasanka Adikari, Ph.D.",
     pageTitle: "Sasanka Adikari | Mathematics & Data Science",
     pageDescription:
       "Academic profile of Sasanka Adikari, Assistant Professor of Mathematics and Data Science at Clarkson University.",
